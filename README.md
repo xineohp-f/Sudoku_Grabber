@@ -7,5 +7,7 @@
   
 ### Demo: http://phnx.esy.es/sud/
 
+### Sample Images: https://github.com/xineohp-f/Sudoku_Grabber/tree/master/sample-images
+
 ### Issues
   Currently needs some tweaking to work with camera photos.
